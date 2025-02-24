@@ -54,7 +54,8 @@ nav ul li a:hover{
     height: 450px;
     object-fit: cover;
     border-radius: 50%;
-    margin-top: 15%;
+    margin-top: 10%;
+    margin-bottom: 6%;  
 }
 .purple{
     color: rgb(139, 57, 215);
@@ -65,4 +66,10 @@ nav ul li a:hover{
 .secondSection{
     width: 85%;
     margin: auto;
+}
+main hr{
+    border: 0;
+    background-color: #504d86;
+    height: 1px;
+    margin: 40px 84px;
 }
